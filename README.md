@@ -1,2 +1,3 @@
-# Iris-Classifier
-This project builds a simple machine learning pipeline to classify iris flowers into one of three species: Setosa, Versicolor, or Virginica.
+# Iris Classifier
+
+Classifies iris species using a decision tree on the classic dataset.
